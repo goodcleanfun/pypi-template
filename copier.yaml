@@ -7,6 +7,10 @@ repo_org:
 author:
     type: str
 
+license:
+    type: str
+    default: MIT
+
 description:
     type: str
 
