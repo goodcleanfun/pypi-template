@@ -1,0 +1,13 @@
+name:
+    type: str
+
+repo_org:
+    type: str
+
+author:
+    type: str
+
+description:
+    type: str
+
+_subdirectory: template
